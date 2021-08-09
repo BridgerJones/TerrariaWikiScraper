@@ -1,300 +1,318 @@
-Blue_Slime_Banner
-Green_Slime_Banner
-Purple_Slime_Banner
-Umbrella_Slime_Banner
-Red_Slime_Banner
-Yellow_Slime_Banner
-Black_Slime_Banner
-Mother_Slime_Banner
-Dungeon_Slime_Banner
-Pinky_Banner
-Jungle_Slime_Banner
-Spiked_Jungle_Slime_Banner
-Ice_Slime_Banner
-Spiked_Ice_Slime_Banner
-Sand_Slime_Banner
-Lava_Slime_Banner
-Toxic_Sludge_Banner
-Corrupt_Slime_Banner
-Slimer_Banner
-Crimslime_Banner
-Gastropod_Banner
-Illuminant_Slime_Banner
-Rainbow_Slime_Banner
-Bird_Banner
-Bunny_Banner
-Goldfish_Banner
-Zombie_Banner
-Demon_Eye_Banner
-Goblin_Scout_Banner
-Harpy_Banner
-Crab_Banner
-Pink_Jellyfish_Banner
-Sea_Snail_Banner
-Shark_Banner
-Squid_Banner
-Possessed_Armor_Banner
-Wandering_Eye_Banner
-Wraith_Banner
-Werewolf_Banner
-Wyvern_Banner
-Cave_Bat_Banner
-Cochineal_Beetle_Banner
-Crawdad_Banner
-Giant_Shelly_Banner
-Worm_Banner
-Gnome_Banner
-Nymph_Banner
-Salamander_Banner
-Skeleton_Banner
-Tim_Banner
-Undead_Miner_Banner
-Blue_Jellyfish_Banner
-Armored_Skeleton_Banner
-Giant_Bat_Banner
-Mimic_Banner
-Rock_Golem_Banner
-Rune_Wizard_Banner
-Skeleton_Archer_Banner
-Angler_Fish_Banner
-Green_Jellyfish_Banner
-Granite_Elemental_Banner
-Granite_Golem_Banner
-Hoplite_Banner
-Medusa_Banner
-Wall_Creeper_Banner
-Black_Recluse_Banner
-Anomura_Fungus_Banner
-Fungi_Bulb_Banner
-Mushi_Ladybug_Banner
-Spore_Bat_Banner
-Spore_Skeleton_Banner
-Spore_Zombie_Banner
-Fungo_Fish_Banner
-Cyan_Beetle_Banner
-Ice_Bat_Banner
-Penguin_Banner
-Snow_Flinx_Banner
-Undead_Viking_Banner
-Frozen_Zombie_Banner
-Armored_Viking_Banner
-Ice_Elemental_Banner
-Ice_Tortoise_Banner
-Icy_Merman_Banner
-Pigron_Banner
-Wolf_Banner
-Doctor_Bones_Banner
-Hornet_Banner
-Jungle_Bat_Banner
-Lac_Beetle_Banner
-Man_Eater_Banner
-Snatcher_Banner
-Piranha_Banner
-Angry_Trapper_Banner
-Derpling_Banner
-Giant_Flying_Fox_Banner
-Giant_Tortoise_Banner
-Jungle_Creeper_Banner
-Moss_Hornet_Banner
-Moth_Banner
-Arapaima_Banner
-Flying_Snake_Banner
-Lihzahrd_Banner
-Antlion_Banner
-Antlion_Charger_Banner
-Antlion_Larva_Banner
-Antlion_Swarmer_Banner
-Tomb_Crawler_Banner
-Vulture_Banner
-Basilisk_Banner
-Desert_Spirit_Banner
-Dune_Splicer_Banner
-Ghoul_Banner
-Lamia_Banner
-Mummy_Banner
-Sand_Poacher_Banner
-Bone_Serpent_Banner
-Demon_Banner
-Fire_Imp_Banner
-Hellbat_Banner
-Lava_Bat_Banner
-Red_Devil_Banner
-Angry_Bones_Banner
-Cursed_Skull_Banner
-Dark_Caster_Banner
-Blue_Armored_Bones_Banner
-Rusty_Armored_Bones_Banner
-Hell_Armored_Bones_Banner
-Diabolist_Banner
-Necromancer_Banner
-Ragged_Caster_Banner
-Bone_Lee_Banner
-Skeleton_Commando_Banner
-Skeleton_Sniper_Banner
-Tactical_Skeleton_Banner
-Dungeon_Spirit_Banner
-Giant_Cursed_Skull_Banner
-Paladin_Banner
-Devourer_Banner
-Eater_of_Souls_Banner
-Clinger_Banner
-Corrupt_Mimic_Banner
-Corruptor_Banner
-Cursed_Hammer_Banner
-Dark_Mummy_Banner
-World_Feeder_Banner
-Blood_Crawler_Banner
-Crimera_Banner
-Face_Monster_Banner
-Blood_Feeder_Banner
-Blood_Jelly_Banner
-Blood_Mummy_Banner
-Crimson_Axe_Banner
-Crimson_Mimic_Banner
-Floaty_Gross_Banner
-Herpling_Banner
-Ichor_Sticker_Banner
-Chaos_Elemental_Banner
-Enchanted_Sword_Banner
-Hallowed_Mimic_Banner
-Illuminant_Bat_Banner
-Light_Mummy_Banner
-Pixie_Banner
-Unicorn_Banner
-Meteor_Head_Banner
-Flying_Fish_Banner
-Raincoat_Zombie_Banner
-Angry_Nimbus_Banner
-Ice_Golem_Banner
-Angry_Dandelion_Banner
-Blood_Zombie_Banner
-Corrupt_Bunny_Banner
-Corrupt_Goldfish_Banner
-Corrupt_Penguin_Banner
-Drippler_Banner
-The_Groom_Banner
-The_Bride_Banner
-Vicious_Bunny_Banner
-Vicious_Goldfish_Banner
-Vicious_Penguin_Banner
-Wandering_Eye_Fish_Banner
-Zombie_Merman_Banner
-Clown_Banner
-Blood_Eel_Banner
-Blood_Squid_Banner
-Hemogoblin_Shark_Banner
-Dreadnautilus_Banner
-Goblin_Archer_Banner
-Goblin_Peon_Banner
-Goblin_Sorcerer_Banner
-Goblin_Thief_Banner
-Goblin_Warrior_Banner
-Goblin_Summoner_Banner
-Angry_Tumbler_Banner
-Sand_Elemental_Banner
-Sand_Shark_Banner
-Crystal_Thresher_Banner
-Bone_Biter_Banner
-Flesh_Reaver_Banner
-Raven_Banner
-Ghost_Banner
-Hoppin.27_Jack_Banner
-Parrot_Banner
-Pirate_Captain_Banner
-Pirate_Corsair_Banner
-Pirate_Crossbower_Banner
-Pirate_Deadeye_Banner
-Pirate_Deckhand_Banner
-Butcher_Banner
-Creature_from_the_Deep_Banner
-Deadly_Sphere_Banner
-Dr._Man_Fly_Banner
-Eyezor_Banner
-Frankenstein_Banner
-Fritz_Banner
-Mothron_Banner
-Nailhead_Banner
-Psycho_Banner
-Reaper_Banner
-Swamp_Thing_Banner
-The_Possessed_Banner
-Vampire_Banner
-Mister_Stabby_Banner
-Snow_Balla_Banner
-Snowman_Gangsta_Banner
-Headless_Horseman_Banner
-Hellhound_Banner
-Poltergeist_Banner
-Scarecrow_Banner
-Splinterling_Banner
-Elf_Archer_Banner
-Elf_Copter_Banner
-Flocko_Banner
-Gingerbread_Man_Banner
-Krampus_Banner
-Nutcracker_Banner
-Present_Mimic_Banner
-Yeti_Banner
-Zombie_Elf_Banner
-Martian_Brainscrambler_Banner
-Martian_Drone_Banner
-Martian_Engineer_Banner
-Martian_Gigazapper_Banner
-Martian_Gray_Grunt_Banner
-Martian_Officer_Banner
-Martian_Ray_Gunner_Banner
-Martian_Scutlix_Gunner_Banner
-Martian_Tesla_Turret_Banner
-Martian_Walker_Banner
-Scutlix_Banner
-Blue_Cultist_Archer_Banner
-Lunatic_Devotee_Banner
-Alien_Hornet_Banner
-Alien_Larva_Banner
-Alien_Queen_Banner
-Storm_Diver_Banner
-Vortexian_Banner
-Brain_Suckler_Banner
-Evolution_Beast_Banner
-Nebula_Floater_Banner
-Predictor_Banner
-Flow_Invader_Banner
-Milkyway_Weaver_Banner
-Star_Cell_Banner
-Stargazer_Banner
-Twinkle_Popper_Banner
-Corite_Banner
-Crawltipede_Banner
-Drakomire_Banner
-Drakomire_Rider_Banner
-Selenian_Banner
-Sroller_Banner
-Etherian_Javelin_Thrower_Banner
-Etherian_Goblin_Banner
-Etherian_Goblin_Bomber_Banner
-Etherian_Wyvern_Banner
-Old_One.27s_Skeleton_Banner
-Drakin_Banner
-Etherian_Lightning_Bug_Banner
-Kobold_Banner
-Kobold_Glider_Banner
-Wither_Beast_Banner
-Albino_Antlion_Banner
-Arch_Demon_Banner
-Dragon_Snatcher_Banner
-Jellyfish_Banner
-Orca_Banner
-Slime_Banner
-Vampire_Miner_Banner
-Arch_Wyvern_Banner
-Shadow_Hammer_Banner
-Shadow_Mummy_Banner
-Spectral_Elemental_Banner
-Spectral_Gastropod_Banner
-Blue_Cultist_Fighter_Banner
-White_Cultist_Archer_Banner
-White_Cultist_Caster_Banner
-White_Cultist_Fighter_Banner
-Poisonous_Spore_Banner
-Severed_Hand_Banner
-Small_Star_Cell_Banner
+Blue_Slime_Banner, 1, 1
+Green_Slime_Banner, 2, 1
+Purple_Slime_Banner, 3, 1
+Umbrella_Slime_Banner, 4, 1
+Red_Slime_Banner, 5, 1
+Yellow_Slime_Banner, 6, 1
+Black_Slime_Banner, 7, 1
+Mother_Slime_Banner, 8, 1
+Dungeon_Slime_Banner, 9, 1
+Pinky_Banner, 10, 1
+Jungle_Slime_Banner, 11, 1
+Spiked_Jungle_Slime_Banner, 12, 1
+Ice_Slime_Banner, 13, 1
+Spiked_Ice_Slime_Banner, 14, 1
+Sand_Slime_Banner, 15, 1
+Lava_Slime_Banner, 16, 1
+Toxic_Sludge_Banner, 17, 1
+Corrupt_Slime_Banner, 18, 1
+Slimer_Banner, 19, 1
+Crimslime_Banner, 20, 1
+Gastropod_Banner, 21, 1
+Illuminant_Slime_Banner, 22, 1
+Rainbow_Slime_Banner, 23, 1
+Bird_Banner, 24, 1
+Bunny_Banner, 25, 1
+Goldfish_Banner, 26, 1
+Zombie_Banner, 27, 1
+Demon_Eye_Banner, 28, 1
+Goblin_Scout_Banner, 29, 1
+Harpy_Banner, 30, 1
+Crab_Banner, 31, 1
+Pink_Jellyfish_Banner, 32, 1
+Sea_Snail_Banner, 33, 1
+Shark_Banner, 34, 1
+Squid_Banner, 35, 1
+Possessed_Armor_Banner, 36, 1
+Wandering_Eye_Banner, 37, 1
+Wraith_Banner, 38, 1
+Werewolf_Banner, 39, 1
+Wyvern_Banner, 40, 1
+Cave_Bat_Banner, 41, 1
+Cochineal_Beetle_Banner, 42, 1
+Crawdad_Banner, 43, 1
+Giant_Shelly_Banner, 44, 1
+Worm_Banner, 45, 1
+Gnome_Banner, 46, 1
+Nymph_Banner, 47, 1
+Salamander_Banner, 48, 1
+Skeleton_Banner, 49, 1
+Tim_Banner, 50, 1
+
+
+-----------------
+Undead_Miner_Banner, 1, 2
+Blue_Jellyfish_Banner, 2, 2
+Armored_Skeleton_Banner, 3, 2
+Giant_Bat_Banner, 4, 2
+Mimic_Banner, 5, 2
+Rock_Golem_Banner, 6, 2
+Rune_Wizard_Banner, 7, 2
+Skeleton_Archer_Banner, 8, 2
+Angler_Fish_Banner, 9, 2
+Green_Jellyfish_Banner, 10, 2
+Granite_Elemental_Banner, 11, 2
+Granite_Golem_Banner, 12, 2
+Hoplite_Banner, 13, 2
+Medusa_Banner, 14, 2
+Wall_Creeper_Banner, 15, 2
+Black_Recluse_Banner, 16, 2
+Anomura_Fungus_Banner, 17, 2
+Fungi_Bulb_Banner, 18, 2
+Mushi_Ladybug_Banner, 19, 2
+Spore_Bat_Banner, 20, 2
+Spore_Skeleton_Banner, 21, 2
+Spore_Zombie_Banner, 22, 2
+Fungo_Fish_Banner, 23, 2
+Cyan_Beetle_Banner, 24, 2
+Ice_Bat_Banner, 25, 2
+Penguin_Banner, 26, 2
+Snow_Flinx_Banner, 27, 2
+Undead_Viking_Banner, 28, 2
+Frozen_Zombie_Banner, 29, 2
+Armored_Viking_Banner, 30, 2
+Ice_Elemental_Banner, 31, 2
+Ice_Tortoise_Banner, 32, 2
+Icy_Merman_Banner, 33, 2
+Pigron_Banner, 34, 2
+Wolf_Banner, 35, 2
+Doctor_Bones_Banner, 36, 2
+Hornet_Banner, 37, 2
+Jungle_Bat_Banner, 38, 2
+Lac_Beetle_Banner, 39, 2
+Man_Eater_Banner, 40, 2
+Snatcher_Banner, 41, 2
+Piranha_Banner, 42, 2
+Angry_Trapper_Banner, 43, 2
+Derpling_Banner, 44, 2
+Giant_Flying_Fox_Banner, 45, 2
+Giant_Tortoise_Banner, 46, 2
+Jungle_Creeper_Banner, 47, 2
+Moss_Hornet_Banner, 48, 2
+Moth_Banner, 49, 2
+Arapaima_Banner, 50, 2
+
+
+-----------------
+Flying_Snake_Banner, 1, 3
+Lihzahrd_Banner, 2, 3
+Antlion_Banner, 3, 3
+Antlion_Charger_Banner, 4, 3
+Antlion_Larva_Banner, 5, 3
+Antlion_Swarmer_Banner, 6, 3
+Tomb_Crawler_Banner, 7, 3
+Vulture_Banner, 8, 3
+Basilisk_Banner, 9, 3
+Desert_Spirit_Banner, 10, 3
+Dune_Splicer_Banner, 11, 3
+Ghoul_Banner, 12, 3
+Lamia_Banner, 13, 3
+Mummy_Banner, 14, 3
+Sand_Poacher_Banner, 15, 3
+Bone_Serpent_Banner, 16, 3
+Demon_Banner, 17, 3
+Fire_Imp_Banner, 18, 3
+Hellbat_Banner, 19, 3
+Lava_Bat_Banner, 20, 3
+Red_Devil_Banner, 21, 3
+Angry_Bones_Banner, 22, 3
+Cursed_Skull_Banner, 23, 3
+Dark_Caster_Banner, 24, 3
+Blue_Armored_Bones_Banner, 25, 3
+Rusty_Armored_Bones_Banner, 26, 3
+Hell_Armored_Bones_Banner, 27, 3
+Diabolist_Banner, 28, 3
+Necromancer_Banner, 29, 3
+Ragged_Caster_Banner, 30, 3
+Bone_Lee_Banner, 31, 3
+Skeleton_Commando_Banner, 32, 3
+Skeleton_Sniper_Banner, 33, 3
+Tactical_Skeleton_Banner, 34, 3
+Dungeon_Spirit_Banner, 35, 3
+Giant_Cursed_Skull_Banner, 36, 3
+Paladin_Banner, 37, 3
+Devourer_Banner, 38, 3
+Eater_of_Souls_Banner, 39, 3
+Clinger_Banner, 40, 3
+Corrupt_Mimic_Banner, 41, 3
+Corruptor_Banner, 42, 3
+Cursed_Hammer_Banner, 43, 3
+Dark_Mummy_Banner, 44, 3
+World_Feeder_Banner, 45, 3
+Blood_Crawler_Banner, 46, 3
+Crimera_Banner, 47, 3
+Face_Monster_Banner, 48, 3
+Blood_Feeder_Banner, 49, 3
+Blood_Jelly_Banner, 50, 3
+
+
+-----------------
+Blood_Mummy_Banner, 1, 4
+Crimson_Axe_Banner, 2, 4
+Crimson_Mimic_Banner, 3, 4
+Floaty_Gross_Banner, 4, 4
+Herpling_Banner, 5, 4
+Ichor_Sticker_Banner, 6, 4
+Chaos_Elemental_Banner, 7, 4
+Enchanted_Sword_Banner, 8, 4
+Hallowed_Mimic_Banner, 9, 4
+Illuminant_Bat_Banner, 10, 4
+Light_Mummy_Banner, 11, 4
+Pixie_Banner, 12, 4
+Unicorn_Banner, 13, 4
+Meteor_Head_Banner, 14, 4
+Flying_Fish_Banner, 15, 4
+Raincoat_Zombie_Banner, 16, 4
+Angry_Nimbus_Banner, 17, 4
+Ice_Golem_Banner, 18, 4
+Angry_Dandelion_Banner, 19, 4
+Blood_Zombie_Banner, 20, 4
+Corrupt_Bunny_Banner, 21, 4
+Corrupt_Goldfish_Banner, 22, 4
+Corrupt_Penguin_Banner, 23, 4
+Drippler_Banner, 24, 4
+The_Groom_Banner, 25, 4
+The_Bride_Banner, 26, 4
+Vicious_Bunny_Banner, 27, 4
+Vicious_Goldfish_Banner, 28, 4
+Vicious_Penguin_Banner, 29, 4
+Wandering_Eye_Fish_Banner, 30, 4
+Zombie_Merman_Banner, 31, 4
+Clown_Banner, 32, 4
+Blood_Eel_Banner, 33, 4
+Blood_Squid_Banner, 34, 4
+Hemogoblin_Shark_Banner, 35, 4
+Dreadnautilus_Banner, 36, 4
+Goblin_Archer_Banner, 37, 4
+Goblin_Peon_Banner, 38, 4
+Goblin_Sorcerer_Banner, 39, 4
+Goblin_Thief_Banner, 40, 4
+Goblin_Warrior_Banner, 41, 4
+Goblin_Summoner_Banner, 42, 4
+Angry_Tumbler_Banner, 43, 4
+Sand_Elemental_Banner, 44, 4
+Sand_Shark_Banner, 45, 4
+Crystal_Thresher_Banner, 46, 4
+Bone_Biter_Banner, 47, 4
+Flesh_Reaver_Banner, 48, 4
+Raven_Banner, 49, 4
+Ghost_Banner, 50, 4
+
+
+-----------------
+Hoppin.27_Jack_Banner, 1, 5
+Parrot_Banner, 2, 5
+Pirate_Captain_Banner, 3, 5
+Pirate_Corsair_Banner, 4, 5
+Pirate_Crossbower_Banner, 5, 5
+Pirate_Deadeye_Banner, 6, 5
+Pirate_Deckhand_Banner, 7, 5
+Butcher_Banner, 8, 5
+Creature_from_the_Deep_Banner, 9, 5
+Deadly_Sphere_Banner, 10, 5
+Dr._Man_Fly_Banner, 11, 5
+Eyezor_Banner, 12, 5
+Frankenstein_Banner, 13, 5
+Fritz_Banner, 14, 5
+Mothron_Banner, 15, 5
+Nailhead_Banner, 16, 5
+Psycho_Banner, 17, 5
+Reaper_Banner, 18, 5
+Swamp_Thing_Banner, 19, 5
+The_Possessed_Banner, 20, 5
+Vampire_Banner, 21, 5
+Mister_Stabby_Banner, 22, 5
+Snow_Balla_Banner, 23, 5
+Snowman_Gangsta_Banner, 24, 5
+Headless_Horseman_Banner, 25, 5
+Hellhound_Banner, 26, 5
+Poltergeist_Banner, 27, 5
+Scarecrow_Banner, 28, 5
+Splinterling_Banner, 29, 5
+Elf_Archer_Banner, 30, 5
+Elf_Copter_Banner, 31, 5
+Flocko_Banner, 32, 5
+Gingerbread_Man_Banner, 33, 5
+Krampus_Banner, 34, 5
+Nutcracker_Banner, 35, 5
+Present_Mimic_Banner, 36, 5
+Yeti_Banner, 37, 5
+Zombie_Elf_Banner, 38, 5
+Martian_Brainscrambler_Banner, 39, 5
+Martian_Drone_Banner, 40, 5
+Martian_Engineer_Banner, 41, 5
+Martian_Gigazapper_Banner, 42, 5
+Martian_Gray_Grunt_Banner, 43, 5
+Martian_Officer_Banner, 44, 5
+Martian_Ray_Gunner_Banner, 45, 5
+Martian_Scutlix_Gunner_Banner, 46, 5
+Martian_Tesla_Turret_Banner, 47, 5
+Martian_Walker_Banner, 48, 5
+Scutlix_Banner, 49, 5
+Blue_Cultist_Archer_Banner, 50, 5
+
+
+-----------------
+Lunatic_Devotee_Banner, 1, 6
+Alien_Hornet_Banner, 2, 6
+Alien_Larva_Banner, 3, 6
+Alien_Queen_Banner, 4, 6
+Storm_Diver_Banner, 5, 6
+Vortexian_Banner, 6, 6
+Brain_Suckler_Banner, 7, 6
+Evolution_Beast_Banner, 8, 6
+Nebula_Floater_Banner, 9, 6
+Predictor_Banner, 10, 6
+Flow_Invader_Banner, 11, 6
+Milkyway_Weaver_Banner, 12, 6
+Star_Cell_Banner, 13, 6
+Stargazer_Banner, 14, 6
+Twinkle_Popper_Banner, 15, 6
+Corite_Banner, 16, 6
+Crawltipede_Banner, 17, 6
+Drakomire_Banner, 18, 6
+Drakomire_Rider_Banner, 19, 6
+Selenian_Banner, 20, 6
+Sroller_Banner, 21, 6
+Etherian_Javelin_Thrower_Banner, 22, 6
+Etherian_Goblin_Banner, 23, 6
+Etherian_Goblin_Bomber_Banner, 24, 6
+Etherian_Wyvern_Banner, 25, 6
+Old_One.27s_Skeleton_Banner, 26, 6
+Drakin_Banner, 27, 6
+Etherian_Lightning_Bug_Banner, 28, 6
+Kobold_Banner, 29, 6
+Kobold_Glider_Banner, 30, 6
+Wither_Beast_Banner, 31, 6
+Albino_Antlion_Banner, 32, 6
+Arch_Demon_Banner, 33, 6
+Dragon_Snatcher_Banner, 34, 6
+Jellyfish_Banner, 35, 6
+Orca_Banner, 36, 6
+Slime_Banner, 37, 6
+Vampire_Miner_Banner, 38, 6
+Arch_Wyvern_Banner, 39, 6
+Shadow_Hammer_Banner, 40, 6
+Shadow_Mummy_Banner, 41, 6
+Spectral_Elemental_Banner, 42, 6
+Spectral_Gastropod_Banner, 43, 6
+Blue_Cultist_Fighter_Banner, 44, 6
+White_Cultist_Archer_Banner, 45, 6
+White_Cultist_Caster_Banner, 46, 6
+White_Cultist_Fighter_Banner, 47, 6
+Poisonous_Spore_Banner, 48, 6
+Severed_Hand_Banner, 49, 6
+Small_Star_Cell_Banner, 50, 6
+
+
+-----------------
