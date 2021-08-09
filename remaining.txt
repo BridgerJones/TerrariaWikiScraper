@@ -20,7 +20,6 @@ Gastropod_Banner, 21, 1
 Illuminant_Slime_Banner, 22, 1
 Rainbow_Slime_Banner, 23, 1
 Bird_Banner, 24, 1
-Bunny_Banner, 25, 1
 Goldfish_Banner, 26, 1
 Demon_Eye_Banner, 28, 1
 Goblin_Scout_Banner, 29, 1
